@@ -1,7 +1,7 @@
 # Asphalt 3 J2ME — Engenharia Reversa
 
 **Jogo:** Asphalt: Urban GT 3 · Gameloft · J2ME  
-**Engine:** GLLib (mesmo engine de AC1, AC2, PoP SoT J2ME)  
+**Engine:** GLLib
 **Objetivo:** Editor de pistas Python — leitura/edição do pack /2, visualização de imagens de todos os packs
 
 ---
