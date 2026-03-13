@@ -612,5 +612,4 @@ def decode_argb1555(word):
 - O formato do pack /2 está **completamente mapeado e testado** — os 6 entries parseiam sem erro
 - Imagens PNG são **nativas** dentro dos packs — sem decode GLLib necessário
 - Sprites GLLib `df03` (pack /5) precisam de decode: 2bpp + paleta ARGB4444 do pack /1 entry [0]
-- O editor será Python — interface ainda a definir (tkinter ou outra)
 
